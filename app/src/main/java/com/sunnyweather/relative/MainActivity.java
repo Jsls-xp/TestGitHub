@@ -72,4 +72,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
     }
+
+    public void test(){
+        Log.e("TAG","test");
+    }
 }
