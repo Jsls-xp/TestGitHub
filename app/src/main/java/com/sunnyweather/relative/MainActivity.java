@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Log.e("TAG","test");
     }
 
-    public void test(){
+    public void reset(){
         Log.e("TAG","test");
     }
 }
