@@ -70,7 +70,16 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void add(){
         Log.e("TAG","add");
 
+        Log.e("TAG","add");
+        Log.e("TAG","add");
 
+        Log.e("TAG","add");
+    }
+
+    public void test(){
+        Log.e("TAG","test");
+        Log.e("TAG","test");
+        Log.e("TAG","test");
     }
 
     public void test(){
